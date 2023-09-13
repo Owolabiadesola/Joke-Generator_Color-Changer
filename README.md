@@ -1,70 +1,66 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Color Changer
 
-## Available Scripts
+A beautiful and funtional Color-Changer using HTML, CSS, Bootstrap, ReactJS 
 
-In the project directory, you can run:
+![Color](https://github.com/Owolabiadesola/Joke-Generator_Color-Changer/assets/127605911/3b8136e2-45df-41a1-8e54-73c6340b1d2f)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Overview 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The main aim of this project is to change the background color by clicking the button on the page. 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Timeframe 
 
-### `npm run build`
+3 hours
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Team 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Adesola Oluwanifemi Owolabi
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Deployment
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You can find the hosted version here:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Repository link:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# Technologies used 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+• HTML5
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+• CSS
 
-### Code Splitting
+• Bootstrap
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+• JavaScript
 
-### Analyzing the Bundle Size
+• React JavaScript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+• Chrome 
 
-### Making a Progressive Web App
+• Git & GitHub
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+# Demonstration of the App Flow
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+https://github.com/Owolabiadesola/Joke-Generator_Color-Changer/assets/127605911/43ffb5f8-ebac-4c1b-84ff-a5836f11e234
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+# Screenshot
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Colormain](https://github.com/Owolabiadesola/Joke-Generator_Color-Changer/assets/127605911/9cdd8cc8-19ce-4896-9c55-fff89e79629e)
+
+
+![colorpart](https://github.com/Owolabiadesola/Joke-Generator_Color-Changer/assets/127605911/bd15ade6-9d76-4077-9fe1-b72b529fc733)
+
+
+# Key learnings
+
+This project helped me to know and discover new colors and also added to my knowledge about JavaScript.
+
